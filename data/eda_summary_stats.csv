@@ -1,0 +1,12 @@
+,0
+overall_churn_rate,0.2653698707936959
+month_to_month_churn,0.4270967741935484
+two_year_churn,0.02831858407079646
+fiber_churn,0.4189276485788114
+dsl_churn,0.1895910780669145
+first_6mo_churn,0.5293720459149224
+electronic_check_churn,0.4528541226215645
+zero_addon_churn,0.21406038756196485
+avg_monthly_charge_churned,74.44133226324237
+avg_monthly_charge_retained,61.26512369540008
+estimated_annual_revenue_at_risk,1669570.2000000002
