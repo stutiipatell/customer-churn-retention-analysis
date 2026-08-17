@@ -5,10 +5,10 @@ provider, quantifying the revenue impact, and building a predictive model to
 flag at-risk customers for proactive retention — combining Python/ML analysis,
 SQL segmentation, and an interactive Power BI dashboard.
 
-![Dashboard Overview](dashboard\p1.png)
-![Dashboard Overview](dashboard\p2.png)
-![Dashboard Overview](dashboard\p3.png)
-![Dashboard Overview](dashboard\p4.png)
+![Dashboard Overview](dashboard/p1.png)
+![Dashboard Overview](dashboard/p2.png)
+![Dashboard Overview](dashboard/p3.png)
+![Dashboard Overview](dashboard/p4.png)
 
 ## Highlights
 - **7,043 customers** analyzed (IBM Telco Customer Churn dataset)
